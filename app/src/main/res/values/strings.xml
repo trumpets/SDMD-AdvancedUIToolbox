@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AdvancedUIToolbox</string>
+    <string name="cheese">Cheese</string>
+    <string name="tomatoes">Tomatoes</string>
+    <string name="pick_up">Pick Up</string>
+    <string name="home_delivery">Home Delivery</string>
+    <string name="pizza_app">Pizza App</string>
+    <string name="pay_with_credit_card">Pay with Credit Card</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>
